@@ -1,1 +1,1 @@
-# IIoTDashboard
+Applied Automation is a product engineering services organization focused on developing Internet of Things (IoT) enabled products and solutions for the smart connected world & to provide quality process automation systems for the various industries.
